@@ -30,3 +30,7 @@ span {
   font-size: 50px;
     background-color: brown;
 }
+.square:hover{
+cursor: pointer;
+background-color: rgb(165, 108, 42);
+}
